@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Arishti Live | Home of Learners"
 email: "hello@arishti.live"
 description: "This quarantine time, let us take a step forward and learn things that we are passionate about! We bring you a platform where you can learn about the subjects you are passionate about"
-baseurl: ""
+baseurl: "arishti-live.github.io"
 url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
