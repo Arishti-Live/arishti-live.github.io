@@ -5,7 +5,6 @@ safe:
 - false
 
 
-
 # Build Settings
 markdown: kramdown
 permalink: pretty
@@ -39,7 +38,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-#c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://forms.gle/3HAHdx8GpByB1H1N8s"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -51,9 +50,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "#", text: "Become a speaker"}
+ - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "#", text: "Become a speaker"}
+ - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -76,8 +75,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "60", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "60", specialCharacter: "+", info: "hours", detail: "of pure technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -102,7 +101,7 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Join the Talk and support us!"
+  name: "Support us!"
   price: "251"
   priceCurrency: "INR"
   ticketsNumber: "150"
