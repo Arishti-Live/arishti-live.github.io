@@ -18,8 +18,8 @@ description: "This quarantine time, let us take a step forward and learn things 
 baseurl: ""
 url: "http://arishti.live"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: ""
+googleAnalyticsTrackingId: "UA-163360519-1"
+googleAnalyticsSiteUrl: "http://arishti.live"
 siteVerification: ""
 
 # Organizer Info
