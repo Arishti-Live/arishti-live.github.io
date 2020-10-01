@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Arishti Live | Home of Learners"
 email: "hello@arishti.live"
 description: "This quarantine time, let us take a step forward and learn things that we are passionate about! We bring you a platform where you can learn about the subjects you are passionate about"
-baseurl: "/"
-url: "https://arishti.live"
+baseurl: ""
+url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -47,8 +47,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "#", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,28 +54,27 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "ArishtiLive <typeout> 2020"
+eventDate: "OCT, 2020"
+typeoutTextValues: '"", "Network Sec", "", "SIEM", "Forensic"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "#", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Arishti"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.png", text: "Our Speakers are expert in their fields and have years of experience." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Our Speakers are expert in their fields and have years of experience." }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Coming Soon" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "60", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -95,10 +92,6 @@ tweetsFeedTitle: "What's Up?"
 twitterHashTag: "Arishtilive"
 twitterFeed: ""
 
-# Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
 
 
 # Tickets Block
@@ -162,4 +155,3 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "This quarantine time, let us take a step forward and learn things that we are passionate about! We bring you a platform where you can learn about the subjects you are passionate about. We have planned a series of sessions that are Introductory to a good level of understanding courses by professionals with a lot of experience in the Infosec community. Trainers / Speakers will be announced soon"
-
