@@ -16,7 +16,7 @@ title: "Arishti Live | Home of Learners"
 email: "hello@arishti.live"
 description: "This quarantine time, let us take a step forward and learn things that we are passionate about! We bring you a platform where you can learn about the subjects you are passionate about"
 baseurl: ""
-url: "http://arishti-live.github.io/"
+url: "http://arishti.live"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "https://archive.arishti.live", text: "Old site"}
+ - {permalink: "http://archive.arishti.live", text: "Old site"}
 bottomNavigationLinks:
  - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Become a speaker"}
 rightNavigationButtons:
