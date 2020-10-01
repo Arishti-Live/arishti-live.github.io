@@ -2,7 +2,7 @@
 gems:
 - jekyll-sitemap
 safe: false
-
+exclude: vendor
 # Build Settings
 markdown: kramdown
 permalink: pretty
