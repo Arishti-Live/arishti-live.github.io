@@ -6,8 +6,10 @@
   subtype: presentation
   speakers: [3]
   language: en
-  complexity: "Intermediate"
-  video: ""
+  complexity: "easy"
+  video: "//www.youtube.com/embed/kO1PCK8f4NQ"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  registration: "https://forms.gle/74XR6YdJYUNr2tXX7"
 -
   id: 002
   title: "Questions"
@@ -16,8 +18,7 @@
   speakers: [3]
   language: en
   complexity: "easy"
-  video: ""
--
+  video: "//www.youtube.com/embed/kO1PCK8f4NQ"
   id: 003
   title: "Questions"
   description: "Community talks questions related to topics"
@@ -25,5 +26,6 @@
   speakers: [3]
   language: en
   complexity: "easy"
-  video: ""
+  video: "//www.youtube.com/embed/kO1PCK8f4NQ"
 -
+

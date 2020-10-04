@@ -27,6 +27,10 @@
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
+						<p class="theme-description">{{ session.description }}</p>
+						{% if session.registration %}
+						<a class="theme-presentation" href="{{ session.registration }}" title="Registration" target="_blank">Registration</a>
+						{% endif %}
 						<hr>
 						<div class="people-details">
 							{% for speaker in site.data.speakers %}
