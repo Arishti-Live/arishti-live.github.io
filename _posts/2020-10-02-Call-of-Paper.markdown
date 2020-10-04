@@ -19,7 +19,7 @@ If you belong to one of those groups you are cordially invited to submit a talk 
 Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
 
-#### Please submit your proposals [here](#).
+#### Please submit your proposals [here](https://forms.gle/3HAHdx8GpByB1H1N8s).
 __Deadline__ is 404
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
