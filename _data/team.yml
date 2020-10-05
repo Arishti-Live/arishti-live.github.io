@@ -23,3 +23,41 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/adhokshajmishra/"}
 - 
+- 
+  id: 2
+  name: "Abhisar"
+  surname: "Pandey"
+  title: "C|EH, Red Team Enthusiast"
+  thumbnailUrl: pandey.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Arishti Team"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/imabhisarpandey/"}
+    - {name: "twitter", link: "https://twitter.com/imabhisarpandey"}
+- 
+- 
+  id: 3
+  name: "Kunwar"
+  surname: "Atul"
+  title: "Another AppSec & DevSecOps Guy"
+  thumbnailUrl: atul.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Arishti Team"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kunwaratulhax0r/"}
+    - {name: "twitter", link: "https://twitter.com/kunwaratulhax0r"}
+- 
+- 
+  id: 4
+  name: "Nidhish"
+  surname: "Pandya"
+  title: "Security Researcher | Red Teamer | Malware Freak |"
+  thumbnailUrl: nidish.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Arishti Team"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/__N1gh7m4r3__"}
+- 
