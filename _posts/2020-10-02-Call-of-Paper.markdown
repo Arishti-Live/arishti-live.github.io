@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2023-01-06 08:00:00
+date:   2023-01-01 08:00:00
 isStaticPost: false
 ---
 
