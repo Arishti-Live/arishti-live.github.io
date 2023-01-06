@@ -2,7 +2,7 @@
   id: 3
   name: "ANIMESH"
   surname: "ROY"
-  company: "ZEROBIT Solutions"
+  company: "Arishti Conolidated"
   title: "Director"
   bio: "."
   thumbnailUrl: anir0y.jpg
@@ -10,3 +10,12 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/anir0y/"}
 - 
+  id: 4
+  name: "Adhokshaj"
+  surname: "Mishra"
+  company: "Uptycs"
+  title: "Researcher"
+  thumbnailUrl: Mishra.jpg
+  rockstar: true
+  social:
+    - {name: "LinkedIn", link: "https://www.linkedin.com/in/adhokshajmishra/"}

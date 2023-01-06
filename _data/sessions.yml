@@ -1,31 +1,29 @@
 
 -
   id: 001
-  title: "The one with Sharks"
-  description: "This series is designed to give a basic understanding on Network Monitoring and Basic of Forensics with Wireshark & TShark."
+  title: "Fun with Malware S02 01"
+  description: "Prerequisites: Should be comfortable with Linux (basic shell commands), Fundamentals of C (pointers, file I/O) and C++ (classes, inheritance, stream-based I/O)."
   subtype: presentation
-  speakers: [3]
+  speakers: [4]
   language: en
-  complexity: "easy"
-  video: "//www.youtube.com/embed/kO1PCK8f4NQ"
-  presentation: "#"
+  complexity: "Medium"
   registration: "https://forms.gle/74XR6YdJYUNr2tXX7"
 -
-  id: 002
-  title: "Questions"
-  description: "Community talks questions related to topics"
-  subtype: presentation
-  speakers: [3]
-  language: en
-  complexity: "easy"
-  video: "//www.youtube.com/embed/kO1PCK8f4NQ"
-  id: 003
-  title: "Questions"
-  description: "Community talks questions related to topics"
-  subtype: presentation
-  speakers: [3]
-  language: en
-  complexity: "easy"
-  video: "//www.youtube.com/embed/kO1PCK8f4NQ"
--
+#  id: 002
+#  title: "Fun with Malware S02 01"
+#  description: "Community talks questions related to topics"
+#  subtype: presentation
+#  speakers: [3]
+#  language: en
+#  complexity: "easy"
+#  video: "//www.youtube.com/embed/kO1PCK8f4NQ"
+#  id: 003
+#  title: "Questions"
+#  description: "Community talks questions related to topics"
+#  subtype: presentation
+#  speakers: [3]
+#  language: en
+#  complexity: "easy"
+#  video: "//www.youtube.com/embed/kO1PCK8f4NQ"
+#-
 

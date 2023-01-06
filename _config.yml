@@ -12,9 +12,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
 
 
 # Site Settings
-title: "Arishti Live | Home of Learners"
+title: "Arishti Live: A Community of Learners and Innovators"
 email: "hello@arishti.live"
-description: "This quarantine time, let us take a step forward and learn things that we are passionate about! We bring you a platform where you can learn about the subjects you are passionate about"
+description: "Get ready for an exciting new chapter in learning with our returning training sessions. We have a lineup of dynamic and informative subjects for you to explore."
 baseurl: ""
 url: "http://arishti.live"
 permalink: "/blog/:title"
@@ -25,45 +25,45 @@ siteVerification: ""
 # Organizer Info
 organizerName: "Arishti Live"
 organizerAlternateName: "Arishti "
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experiences."
+organizerDescription: "Get involved with open and volunteer geek communities that are dedicated to creating exciting projects and sharing their experiences. Join like-minded individuals and contribute to a thriving community of geeks who are passionate about creating and learning together."
 organizerEmail: "hello@arishti.live"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://arishti.live"
 
 # Head
-metaKeywords: "event, programming, security, infosec"
+metaKeywords: "Arishti, programming, security, infosec, reverse engineering, fun with malware,anir0y"
 twitterAccount: "@arishtilive"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://forms.gle/3HAHdx8GpByB1H1N8s"
+c4pUrl: "https://forms.gle/3HAHdx8GpByB1H1N8"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/old/", text: "Old site"}
- - {permalink: "/training/", text: "Training"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/old/", text: "Old site"}
+# - {permalink: "/training/", text: "Training"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Become a speaker"}
+ - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Fun With Malware returns: Get Tickets"}
 rightNavigationButtons:
- - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Become a speaker"}
+ - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Fun With Malware returns: Get Tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "ArishtiLive <typeout> 2020"
-eventDate: "OCT, 2020"
-typeoutTextValues: '"", "Network Sec", "", "SIEM", "Forensic"'
+heroTitle: "ArishtiLive | <typeout> "
+eventDate: "APRIL, 2023"
+typeoutTextValues: '"", "Reverse Engineering", "", "Malware", "C++"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "#", text: "Become a speaker"}
+# - {link: "#", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -81,7 +81,7 @@ statisticBlock:
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest Updates"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -103,28 +103,28 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Support us!"
-  price: "251"
+  name: "Early Birds, Pro!"
+  price: "$299"
   priceCurrency: "INR"
   ticketsNumber: "150"
   ribbon: "-5%"
   buyButtonLink: "#"
   buyButtonText: "Buy Now"
   ticketContentList: [""]
-  validFrom: "2020-08-25T05:30"
-  validThrough: "2020-09-30T23:59"
+  validFrom: "2023-01-01T05:30"
+  validThrough: "2023-02-28T23:59"
  -
 
   name: "Student"
-  price: "0"
+  price: "$199"
   priceCurrency: "INR"
   ticketsNumber: "50"
   buyButtonLink: "#s"
   buyButtonText: "Buy Now"
   additionalInfo: "Spread the word!"
   ticketContentList: [""]
-  validFrom: "2020-08-25T05:30"
-  validThrough: "2020-09-30T23:59"
+  validFrom: "2023-01-01T05:30"
+  validThrough: "2023-02-28T23:59"
   soldOut: false
   soldOutText: "Sold Out"
 
@@ -138,7 +138,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://arishti.live", text: "Arishti Live"}
-   - {link: "https://merch.arishti.live", text: "Merch Store"}
+
  -
   title: "Contacts"
   links:
@@ -158,4 +158,4 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "This quarantine time, let us take a step forward and learn things that we are passionate about! We bring you a platform where you can learn about the subjects you are passionate about. We have planned a series of sessions that are Introductory to a good level of understanding courses by professionals with a lot of experience in the Infosec community. Trainers / Speakers will be announced soon"
+aboutUs: "Get involved with open and volunteer geek communities that are dedicated to creating exciting projects and sharing their experiences. Join like-minded individuals and contribute to a thriving community of geeks who are passionate about creating and learning together."
