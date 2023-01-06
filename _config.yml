@@ -38,7 +38,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://forms.gle/3HAHdx8GpByB1H1N8"
+c4pUrl: "https://bit.ly/3GH6L5k"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -52,9 +52,9 @@ navigationLinks:
 # - {permalink: "/old/", text: "Old site"}
 # - {permalink: "/training/", text: "Training"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Fun With Malware returns: Get Tickets"}
+ - {link: "https://bit.ly/3GH6L5k", text: "Fun With Malware returns: Get Tickets"}
 rightNavigationButtons:
- - {link: "https://forms.gle/3HAHdx8GpByB1H1N8", text: "Fun With Malware returns: Get Tickets"}
+ - {link: "https://bit.ly/3GH6L5k", text: "Fun With Malware returns: Get Tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
