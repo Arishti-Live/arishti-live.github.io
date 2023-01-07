@@ -64,7 +64,7 @@ typeoutTextValues: '"", "Reverse Engineering", "", "Malware", "C++"'
 typeoutFallback: "Season"
 heroButtons:
 # - {link: "#", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://bit.ly/3GH6L5k", text: "Register Now"}
 
 # About Block
 aboutTitle: "About Arishti"
