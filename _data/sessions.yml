@@ -1,13 +1,32 @@
 
 -
-  id: 001
-  title: "Fun with Malware S02 01"
-  description: "Prerequisites: Should be comfortable with Linux (basic shell commands), Fundamentals of C (pointers, file I/O) and C++ (classes, inheritance, stream-based I/O)."
+  id: 004
+  title: "Secure Code Analsis"
+  description: "Basic Coding knowldge"
   subtype: presentation
   speakers: [4]
   language: en
   complexity: "Medium"
   registration: "https://bit.ly/3GH6L5k"
+-
+  id: 005
+  title: "Investigating Threats with Jupyter"
+  description: "SOC automation"
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Medium"
+  registration: "https://bit.ly/3GH6L5k"
+-
+  id: 006
+  title: "How I F*CK your LLM"
+  description: "LLM Pentesting"
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Medium"
+  registration: "https://bit.ly/3GH6L5k"
+
 -
 #  id: 002
 #  title: "Fun with Malware S02 01"

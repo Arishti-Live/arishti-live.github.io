@@ -13,9 +13,31 @@
   id: 4
   name: "Adhokshaj"
   surname: "Mishra"
-  company: "Uptycs"
-  title: "Researcher"
+  company: "Quick Heal"
+  title: "Lead Linux R&D"
   thumbnailUrl: Mishra.jpg
   rockstar: true
   social:
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/adhokshajmishra/"}
+
+- 
+  id: 5
+  name: "Shubham"
+  surname: "Agarwal"
+  company: "Airbus"
+  title: "Researcher"
+  thumbnailUrl: placeholder.png
+  rockstar: true
+  social:
+    - {name: "LinkedIn", link: "https://www.linkedin.com/in/#/"}  
+
+- 
+  id: 6
+  name: "Ravi"
+  surname: "Rajput"
+  company: "Exela Technologies"
+  title: "Manager"
+  thumbnailUrl: placeholder.png
+  rockstar: false
+  social:
+    - {name: "LinkedIn", link: "https://www.linkedin.com/in/#/"}  
