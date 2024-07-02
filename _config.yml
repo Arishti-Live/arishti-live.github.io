@@ -38,7 +38,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/3GH6L5k"
+c4pUrl: "https://bit.ly/arishtilive"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -52,19 +52,19 @@ navigationLinks:
 # - {permalink: "/old/", text: "Old site"}
 # - {permalink: "/training/", text: "Training"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/3GH6L5k", text: "Fun With Malware returns: Get Tickets"}
+ - {link: "https://bit.ly/arishtilive", text: "Fun With Malware returns: Get Tickets"}
 rightNavigationButtons:
- - {link: "https://bit.ly/3GH6L5k", text: "Fun With Malware returns: Get Tickets"}
+ - {link: "https://bit.ly/arishtilive", text: "Fun With Malware returns: Get Tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "ArishtiLive | <typeout> "
-eventDate: "APRIL, 2023"
-typeoutTextValues: '"", "Reverse Engineering", "", "Malware", "C++"'
+eventDate: "July, 2024"
+typeoutTextValues: '"", "SIEM", "", "Malware", "LLM"'
 typeoutFallback: "Season"
 heroButtons:
 # - {link: "#", text: "Become a speaker"}
- - {permalink: "https://bit.ly/3GH6L5k", text: "Register Now"}
+ - {permalink: "https://bit.ly/arishtilive", text: "Register Now"}
 
 # About Block
 aboutTitle: "About Arishti"
