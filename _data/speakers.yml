@@ -19,7 +19,6 @@
   rockstar: true
   social:
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/adhokshajmishra/"}
-
 - 
   id: 5
   name: "Shubham"
@@ -30,7 +29,6 @@
   rockstar: true
   social:
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/#/"}  
-
 - 
   id: 6
   name: "Ravi"
