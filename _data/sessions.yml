@@ -1,6 +1,6 @@
 
 -
-  id: 004
+  id: 001
   title: "Secure Code Analsis"
   description: "Basic Coding knowldge"
   subtype: presentation
@@ -9,7 +9,7 @@
   complexity: "Medium"
   registration: "https://bit.ly/3GH6L5k"
 -
-  id: 005
+  id: 002
   title: "Investigating Threats with Jupyter"
   description: "SOC automation"
   subtype: presentation
@@ -18,7 +18,7 @@
   complexity: "Medium"
   registration: "https://bit.ly/3GH6L5k"
 -
-  id: 006
+  id: 003
   title: "How I F*CK your LLM"
   description: "LLM Pentesting"
   subtype: presentation
